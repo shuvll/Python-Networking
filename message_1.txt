@@ -1,0 +1,6 @@
+Hello World!
+
+This is the second email sent with Python!
+
+Sincerely,
+shuvll
